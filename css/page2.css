@@ -300,20 +300,20 @@ a {
 .master__wrapper-list-item:not(:last-child) {
 	margin-bottom: 10px;
 }
-.master__wrapper-list-item-text {
+.master__wrapper-list-item-text a{
 	font-weight: 400;
 	line-height: 100%;
 	letter-spacing: 0%;
 	color: #000000;
 	line-height: 14px;
 }
-.t {
+.t a{
 	font-size: 13px;
 }
-.te {
+.te a{
 	font-size: 12px;
 }
-.tex {
+.tex a{
 	font-size: 11px;
 }
 .master__wrapper-list-item-text span {
